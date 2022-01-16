@@ -7,7 +7,7 @@ The goal of this project simulate a epidemic under various conditions. In home s
 <img src="https://i.ibb.co/FqTPTL7/exp1.png" width="500" height="500">
 <img src="https://i.ibb.co/VM301CL/result.png" width="500" height="500">
 ### Demo GIF
-<img src="https://media.giphy.com/media/XoIqrwP6jH95Nxd1FC/giphy-downsized-large.gif" width="500" height="500" />
+<img src="https://media.giphy.com/media/XoIqrwP6jH95Nxd1FC/giphy.gif" width="500" height="500" />
 
 ## Getting Started
 
